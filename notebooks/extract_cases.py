@@ -2,7 +2,7 @@ from phi.agent import Agent
 from phi.model.ollama import Ollama
 
 extract_agent = Agent(
-    model=Ollama(id="iodose/nuextract-v1.5"),
+    model=Ollama(id="sroecker/nuextract-tiny-v1.5"),
     description="You extract information.",
 )
 
@@ -21,7 +21,7 @@ def predict_nuextract(input_text):
         }
     }
     """
-    template = f"""<|input|>\n ###Template:\n{template}\n### Text:\n{input_text}\n\n<|output|>"""
+    template = f"""<|input|>\n ### Template:\n{template}\n### Text:\n{input_text}\n\n<|output|>"""
 
     return template
 
