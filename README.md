@@ -1,5 +1,5 @@
-# AgenticAI-HandsOn
-Agentic AI Hands-On Lab for the [AI xpress Techtalk](https://aixpress.io/events/ai-xpress-net-agentic-ai-einfuehrung-und-praxis/).
+# Agentic AI Hands-On Lab
+Agentic AI Hands-On Lab for the [AI xpress Techtalk](https://aixpress.io/events/ai-xpress-net-agentic-ai-einfuehrung-und-praxis/) on June 25th 2025 in Böblingen.
 
 For the older version from Summit Connect Darmstadt 2024 see [here](https://github.com/sroecker/AgenticAI-HandsOn/tree/Darmstadt_2024_v2).
 
