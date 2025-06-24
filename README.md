@@ -1,7 +1,9 @@
 # AgenticAI-HandsOn
-Agentic AI Hands-On Lab for Summit Connect Darmstadt 2024
+Agentic AI Hands-On Lab for the [AI xpress Techtalk](https://aixpress.io/events/ai-xpress-net-agentic-ai-einfuehrung-und-praxis/).
 
-This Agentic AI Hands-On Lab offers a practical introduction to building autonomous AI agents using the [Phidata](https://www.phidata.com/) framework and [Ollama](https://ollama.com/). Phidata simplifies the creation, deployment, and monitoring of AI agents by integrating memory, knowledge, and tools into large language models (LLMs). Ollama complements this by allowing everyone to run LLMs locally, ensuring data privacy and reducing latency. Together, they provide a robust environment for quickly developing and experimenting with Agentic AI applications using local models.
+For the older version from Summit Connect Darmstadt 2024 see [here](https://github.com/sroecker/AgenticAI-HandsOn/tree/Darmstadt_2024_v2).
+
+This Agentic AI Hands-On Lab offers a practical introduction to building autonomous AI agents using the [Agno](https://www.agno.com/) framework and [Ollama](https://ollama.com/). Agno simplifies the creation, deployment, and monitoring of AI agents by integrating memory, knowledge, and tools into large language models (LLMs). Ollama complements this by allowing everyone to run LLMs locally, ensuring data privacy and reducing latency. Together, they provide a robust environment for quickly developing and experimenting with Agentic AI applications using local models.
 
 ## Aim of this hands-on lab
 You'll learn the basic concepts and capabilties of using local models for agentic AI.
@@ -9,5 +11,5 @@ Agentic AI represents a significant advancement, combining the versatility of LL
 
 ## Things to know
 
-Most of the examples are adapted from the [Phidata cookbook](https://github.com/phidatahq/phidata/tree/main/cookbook) with a few modifications (e.g context size, temperature) to make it running with local models and Ollama.
-For information on how to deploy Ollama on OpenShift/Kubernetes see our [previous hands-on lab from 2023](https://github.com/sroecker/LLM_AppDev-HandsOn).
+Most of the examples are adapted from the [Agno cookbook](https://github.com/agno-agi/ai-cookbook) with a few modifications (e.g context size, temperature) to make them run better with local models and Ollama.
+For information on how to deploy Ollama on OpenShift/Kubernetes see our [previous LLM app dev hands-on lab from 2023](https://github.com/sroecker/LLM_AppDev-HandsOn).
