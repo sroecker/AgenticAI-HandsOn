@@ -1,0 +1,9 @@
+[project]
+name = "agenticai-handson"
+version = "0.1.0"
+description = "Hands-On Lab for Agentic AI workshop"
+readme = "README.md"
+requires-python = "==3.11.10"
+dependencies = [
+    "agno>=1.6.4",
+]
