@@ -11,5 +11,5 @@ Agentic AI represents a significant advancement, combining the versatility of LL
 
 ## Things to know
 
-Most of the examples are adapted from the [Agno cookbook](https://github.com/agno-agi/ai-cookbook) with a few modifications (e.g context size, temperature) to make them run better with local models and Ollama.
+Most of the examples are adapted from the [Agno cookbook](https://github.com/agno-agi/agno/tree/main/cookbook) with a few modifications (e.g context size, temperature) to make them run better with local models and Ollama.
 For information on how to deploy Ollama on OpenShift/Kubernetes see our [previous LLM app dev hands-on lab from 2023](https://github.com/sroecker/LLM_AppDev-HandsOn).
