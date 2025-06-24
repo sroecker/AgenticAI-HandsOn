@@ -25,3 +25,12 @@ Install required packages:
 ```
 uv sync
 ```
+
+## Examples
+
+In order to run the examples you will need to install Ollama and download the appropriate models.
+
+The gemini examples can be run by [creating a free API key](https://aistudio.google.com/apikey) and setting the environment variable GOOGLE_API_KEY:
+```
+export GOOGLE_API_KEY=AI...
+```
