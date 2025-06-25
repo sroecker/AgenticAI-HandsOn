@@ -1,8 +1,0 @@
-phidata==2.5.32
-ollama==0.3.3
-duckduckgo_search==6.3.5
-tantivy==0.22.0
-pydantic==2.9.2
-pypdf==5.1.0
-lancedb==0.16.0
-youtube-transcript-api==0.6.2
