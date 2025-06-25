@@ -1,0 +1,18 @@
+[project]
+name = "agenticai-handson"
+version = "0.1.0"
+description = "Hands-On Lab for Agentic AI workshop"
+readme = "README.md"
+requires-python = "==3.11.10"
+dependencies = [
+    "agno>=1.6.4",
+    "duckduckgo-search>=8.0.4",
+    "google-genai>=1.21.1",
+    "jupyter>=1.1.1",
+    "lancedb>=0.24.0",
+    "ollama>=0.5.1",
+    "openai>=1.91.0",
+    "pandas>=2.3.0",
+    "pypdf>=5.6.1",
+    "youtube-transcript-api>=1.1.0",
+]
