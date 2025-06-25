@@ -26,6 +26,11 @@ Install required packages:
 uv sync
 ```
 
+Run jupyter lab with:
+```
+uv run --with jupyter jupyter lab
+```
+
 ## Examples
 
 In order to run the examples you will need to install Ollama and download the appropriate models.
