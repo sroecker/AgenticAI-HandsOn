@@ -11,6 +11,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "lancedb>=0.24.0",
     "ollama>=0.5.1",
+    "openai>=1.91.0",
     "pypdf>=5.6.1",
     "youtube-transcript-api>=1.1.0",
 ]
