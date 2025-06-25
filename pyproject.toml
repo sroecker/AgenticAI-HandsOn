@@ -8,4 +8,6 @@ dependencies = [
     "agno>=1.6.4",
     "duckduckgo-search>=8.0.4",
     "google-genai>=1.21.1",
+    "jupyter>=1.1.1",
+    "ollama>=0.5.1",
 ]
